@@ -46,3 +46,7 @@ ipfw flush
 ```
 ipfw delete <line_number>
 ```
+
+![](docs/images/ipfw_ssh_ida_volta.png)
+
+
