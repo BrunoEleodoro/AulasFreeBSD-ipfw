@@ -32,3 +32,7 @@ tcpdump -i eth0
 ```
 
 ![](docs/images/ipfw_rule_ssh.png)
+
+```
+ipfw flush
+```
