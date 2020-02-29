@@ -1,5 +1,7 @@
 Primeiramente vamos carregar o modulo do firewall 
 
+**Regras de firewall especificas devem vir primeiro do que regras mais genericas**
+
 ```
 kldstat
 ```
