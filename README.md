@@ -30,3 +30,5 @@ nc 192.168.100.10 10000
 ```
 tcpdump -i eth0
 ```
+
+![](docs/images/ipfw_rule_ssh.png)
