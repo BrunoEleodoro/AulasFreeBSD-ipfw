@@ -26,3 +26,7 @@ nc 192.168.100.10 10000
 ```
 
 ![](docs/images/both_rules.png)
+
+```
+tcpdump -i eth0
+```
