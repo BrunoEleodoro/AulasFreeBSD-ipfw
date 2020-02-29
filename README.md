@@ -42,3 +42,7 @@ tcpdump -i eth0
 # Limpar todas as regras
 ipfw flush
 ```
+
+```
+ipfw delete <line_number>
+```
